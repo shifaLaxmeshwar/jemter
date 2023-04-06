@@ -1,0 +1,9 @@
+firstname,lastname,totalprice,deposit,checkin,checkout,needs
+tim,khan,111,TRUE,2023-03-01,2023-04-01,choco
+yahi,stan,222,FALSE,2023-04-01,2023-05-01,choco
+john,welly,123,FALSE,2023-05-01,2023-06-01,choco
+waasi,yaan,124,FALSE,2023-06-01,2023-07-01,choco
+arpita,raj,125,FALSE,2023-07-01,2023-08-01,choco
+shifa,lax,126,FALSE,2023-08-01,2023-09-01,choco
+smita,agni,127,FALSE,2023-09-01,2023-10-01,choco
+chirag,joshi,128,FALSE,2023-10-01,2023-11-01,choco
